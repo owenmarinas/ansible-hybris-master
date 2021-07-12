@@ -1,1 +1,1 @@
-# ansible-hybris-master
+# ansible-hybris
